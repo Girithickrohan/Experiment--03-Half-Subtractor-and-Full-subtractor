@@ -66,7 +66,7 @@ endmodule
 
 ## Truthtable
 i)Half Subtractor:
-![image](
+![image](https://raw.githubusercontent.com/Girithickrohan/Experiment--03-Half-Subtractor-and-Full-subtractor/main/hs.png)
 
 ii)Full Subtractor:
 ![image](
@@ -74,14 +74,14 @@ ii)Full Subtractor:
 
 ##  RTL realization
 i)Half Subtractor:
-![image](
+![image](https://raw.githubusercontent.com/Girithickrohan/Experiment--03-Half-Subtractor-and-Full-subtractor/main/hs(1).png)
 
 ii)Full Subtractor:
 ![image](
 
 ## Timing diagram 
 i)Half Subtractor:
-![image](
+![image](https://raw.githubusercontent.com/Girithickrohan/Experiment--03-Half-Subtractor-and-Full-subtractor/main/hs(2).png)
 
 ii)Full Subtractor:
 ![image](
