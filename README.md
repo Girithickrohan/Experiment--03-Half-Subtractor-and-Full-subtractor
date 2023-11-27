@@ -65,25 +65,31 @@ endmodule
 ## Output:
 
 ## Truthtable
+
 i)Half Subtractor:
+
 ![image](https://raw.githubusercontent.com/Girithickrohan/Experiment--03-Half-Subtractor-and-Full-subtractor/main/hs.png)
 
 ii)Full Subtractor:
-![image](
+
+![image](https://raw.githubusercontent.com/Girithickrohan/Experiment--03-Half-Subtractor-and-Full-subtractor/main/fs.png)
 
 
 ##  RTL realization
 i)Half Subtractor:
+
 ![image](https://raw.githubusercontent.com/Girithickrohan/Experiment--03-Half-Subtractor-and-Full-subtractor/main/hs(1).png)
 
 ii)Full Subtractor:
-![image](
+
+![image](https://raw.githubusercontent.com/Girithickrohan/Experiment--03-Half-Subtractor-and-Full-subtractor/main/fs(1).png)
 
 ## Timing diagram 
 i)Half Subtractor:
 ![image](https://raw.githubusercontent.com/Girithickrohan/Experiment--03-Half-Subtractor-and-Full-subtractor/main/hs(2).png)
 
 ii)Full Subtractor:
-![image](
+
+![image](https://raw.githubusercontent.com/Girithickrohan/Experiment--03-Half-Subtractor-and-Full-subtractor/main/fs(2).png)
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
